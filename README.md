@@ -24,6 +24,15 @@ The set of available plugins is constantly expanding. If you can’t find the pl
 ## Applications
 Independent developers could use Taglme Desktop as part of their software. This apps also could be published in [Taglme Desktop Marketplace](https://tagl.me/en/apps.html) in order to increase audience reach. If your application used Taglme Desktop and you want to distribute it among wide customer base of Taglme, feel free to contact us to submit your app to marketplace.
 
+## Opening Issues
+If you encounter a bug with the Taglme Desktop we would like to hear about it.
+Search the [existing issues](https://github.com/taglme/desktop/issues) and see
+if others are also experiencing the issue before opening a new issue. Please
+include the version of Taglme Desktop, and OS you’re using. Please
+also include reproduction case when appropriate.
+
+The GitHub issues are intended for bug reports and feature requests. Keeping the list of open issues lean will help us respond in a timely manner.
+
 ## SDK
 We provide set of SDK libraries to help developers write applications and reduce development time.
 * [Golang NFC library](https://github.com/taglme/nfc-goclient)
